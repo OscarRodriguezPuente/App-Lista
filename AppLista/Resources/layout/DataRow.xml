@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imagenfondo"
+        android:layout_width="415dp"
+        android:layout_height="215dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.1" />
+
+    <ImageView
+        android:id="@+id/imagen"
+        android:layout_width="146dp"
+        android:layout_height="142dp"
+        android:layout_marginStart="24dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imagenfondo"
+        app:layout_constraintStart_toStartOf="@+id/imagenfondo"
+        app:layout_constraintTop_toTopOf="@+id/imagenfondo"
+        app:layout_constraintVertical_bias="0.534" />
+
+    <TextView
+        android:id="@+id/txtnombre"
+        android:layout_width="211dp"
+        android:layout_height="44dp"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="#403E3C"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toTopOf="@+id/txtcorreo"
+        app:layout_constraintEnd_toEndOf="@+id/imagenfondo"
+        app:layout_constraintHorizontal_bias="0.447"
+        app:layout_constraintStart_toEndOf="@+id/imagen"
+        app:layout_constraintTop_toTopOf="@+id/imagenfondo"
+        app:layout_constraintVertical_bias="0.666"
+        tools:text="Nombre" />
+
+    <TextView
+        android:id="@+id/txtcorreo"
+        android:layout_width="211dp"
+        android:layout_height="44dp"
+        android:layout_marginBottom="60dp"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="@+id/imagenfondo"
+        app:layout_constraintEnd_toEndOf="@+id/imagenfondo"
+        app:layout_constraintHorizontal_bias="0.411"
+        app:layout_constraintStart_toEndOf="@+id/imagen"
+        tools:text="Correo" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

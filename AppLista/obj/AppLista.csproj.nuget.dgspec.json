@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\oscar\\Documents\\Aplicaciones moviles\\AppLista\\AppLista\\AppLista.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\oscar\\Documents\\Aplicaciones moviles\\AppLista\\AppLista\\AppLista.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oscar\\Documents\\Aplicaciones moviles\\AppLista\\AppLista\\AppLista.csproj",
+        "projectName": "AppLista",
+        "projectPath": "C:\\Users\\oscar\\Documents\\Aplicaciones moviles\\AppLista\\AppLista\\AppLista.csproj",
+        "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oscar\\Documents\\Aplicaciones moviles\\AppLista\\AppLista\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
+            },
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.7, )"
+            },
+            "Xamarin.AndroidX.ConstraintLayout": {
+              "target": "Package",
+              "version": "[2.0.4.2, )"
+            },
+            "Xamarin.AndroidX.ConstraintLayout.Solver": {
+              "target": "Package",
+              "version": "[2.0.4.2, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.3.0.1, )"
+            },
+            "Xamarin.GooglePlayServices.Base": {
+              "target": "Package",
+              "version": "[117.6.0, )"
+            },
+            "Xamarin.GooglePlayServices.Basement": {
+              "target": "Package",
+              "version": "[117.6.0, )"
+            },
+            "Xamarin.GooglePlayServices.Maps": {
+              "target": "Package",
+              "version": "[117.0.1, )"
+            },
+            "Xamarin.GooglePlayServices.Tasks": {
+              "target": "Package",
+              "version": "[117.2.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\110\res\layout\activity_main.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\110\res\layout\datadetail.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\110\res\layout\datarow.xml
+background;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
+cache-path;C:\Users\oscar\Documents\Aplicaciones moviles\AppLista\AppLista\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\110\res\values\colors.xml
+color;obj\Debug\110\res\values\ic_launcher_background.xml
+com.google.android.gms.maps.MapView;obj\Debug\110\res\layout\datadetail.xml
+external-cache-path;C:\Users\oscar\Documents\Aplicaciones moviles\AppLista\AppLista\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\oscar\Documents\Aplicaciones moviles\AppLista\AppLista\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
+gradient;obj\Debug\110\res\drawable\gradient.xml
+ImageView;obj\Debug\110\res\layout\datadetail.xml
+ImageView;obj\Debug\110\res\layout\datarow.xml
+item;obj\Debug\110\res\values\styles.xml
+ListView;obj\Debug\110\res\layout\activity_main.xml
+paths;C:\Users\oscar\Documents\Aplicaciones moviles\AppLista\AppLista\obj\Debug\110\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;obj\Debug\110\res\values\colors.xml
+resources;obj\Debug\110\res\values\ic_launcher_background.xml
+resources;obj\Debug\110\res\values\strings.xml
+resources;obj\Debug\110\res\values\styles.xml
+shape;obj\Debug\110\res\drawable\gradient.xml
+string;obj\Debug\110\res\values\strings.xml
+style;obj\Debug\110\res\values\styles.xml
+TextView;obj\Debug\110\res\layout\activity_main.xml
+TextView;obj\Debug\110\res\layout\datadetail.xml
+TextView;obj\Debug\110\res\layout\datarow.xml
